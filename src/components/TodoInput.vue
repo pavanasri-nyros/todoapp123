@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>TODO APP USING VUEX</h1>
     <div class="row">
       <input 
         @change="todoTextChange"
